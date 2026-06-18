@@ -1,7 +1,7 @@
-# 📊 Educational Access Analysis in Mexico 
+# 📊 Analysis of Secondary School Enrollment Trends in Mexico
 
 ## 🎯 Project Objective :
-This project analyzes the evolution of secondary school enrollment rates in Mexico in order to understand long-term trends in educational access. 
+This project analyzes the evolution of secondary school enrollment rates in Mexico in order to identify long-term enrollment trends and explore how educational participation has evolved over time.. 
 The main goal is to transform raw World Bank data into clear, actionable insights through data analysis and visualization.  
 
 ## 📚 Data Source :
