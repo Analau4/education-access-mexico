@@ -1,23 +1,33 @@
-# 📊 Analysis of Secondary School Enrollment Trends in Mexico
+# 📊 Secondary School Enrollment Trends in Mexico
 
 ## 🎯 Project Objective :
-This project analyzes the evolution of secondary school enrollment rates in Mexico in order to identify long-term enrollment trends and explore how educational participation has evolved over time.. 
-The main goal is to transform raw World Bank data into clear, actionable insights through data analysis and visualization.  
+This project analyzes the evolution of secondary school gross enrollment rate in Mexico using World Bank Open Data. 
+It focuses on data cleaning, exploration, and visualization to identify long-term trends in educational participation over time.
+
+--- 
 
 ## 📚 Data Source :
-The dataset comes from the **World Bank Open Data** platform and focuses on the following indicator *School enrollment, secondary (% gross)*
+The dataset comes from the **World Bank Open Data** platform. 
+Indicator used: *School enrollment, secondary (% gross)*
+
+--- 
 
 ## 🧰 Tools & Technologies :
 - Python 🐍
 - Pandas & Matplotlib
 - Jupyter Notebook / VS Code 
+- Git & GitHub
 
-## 🌍 Analysis & Insights :
-This analysis highlights that educational access in Mexico has improved over time, while showing some fluctuations linked to external events such as the COVID-19 pandemic.
-While the dataset does not allow direct attribution to economic or socio-cultural causes, these factors may have had an indirect influence on observed trends. 
-However, this cannot be confirmed from the available data.
-Differences across regions or populations may also exist, but they are not directly measurable within this dataset and should therefore be considered as potential contextual factors.
+--- 
 
+## 🌍 Key Findings :
+- 📈 Long-term increase in secondary school enrollment   
+- 📉 Temporary fluctuation during the COVID-19 pandemic   
+- 🌎 Overall upward trend remains stable despite short-term disruptions 
+
+
+--- 
 
 ## 👤 About Me : 
-This project is part of a transition into Data Analysis. I am particularly interested in education systems, languages, cultures, and sustainable development, with a focus on using data to explore trends in education and their broader implications.  
+This project is part of my transition into Data Analysis. 
+I am particularly interested in education systems, languages, cultures, and sustainable development, using data to better understand real-world trends.   
